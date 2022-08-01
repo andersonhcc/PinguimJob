@@ -53,7 +53,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Imagens
 
-<h2 align="center"> Home </h2>
+<h3 align="center"> Home </h3>
 <p align="center"> A página Home do projeto! Inicia com imagens e informações para guiar o usuário em uma experiência agradável! 🐧 </p>
 
 ![Screenshot](prints/home.png)
@@ -63,14 +63,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 		 
 		 
 
-<h2 align="center"> Abrir Vagas </h2>
+<h3 align="center"> Abrir Vagas </h3>
 <p align="center"> A página tem a finalidade de fornecer as empresas a possibilidade de divulgar suas vagas! </p>
 
 ![Screenshot](prints/abrirvagas.png)
 		 
 		 
 
-<h2 align="center"> Ver vagas </h2>
+<h3 align="center"> Ver vagas </h3>
 <p align="center"> Clicando no buttom "Ver vagas" você é redirecionado a essa página que contém as informações sobre a vaga! </p>
 
 ![Screenshot](prints/vervagas.png)
