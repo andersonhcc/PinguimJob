@@ -1,0 +1,25 @@
+{
+  "name": "sitejob",
+  "version": "1.0.0",
+  "description": "Site que facilita o usuário encontrar emprego",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "dev",
+    "job"
+  ],
+  "author": "Anderson <programadorandersonh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "sequelize": "^6.21.3",
+    "sqlite3": "^5.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
