@@ -39,9 +39,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node JS](https://nodejs.org/en/)
 - [HandleBars](https://handlebarsjs.com/)
-- [BootStrap] (https://getbootstrap.com/)
-- [Postman] (https://www.postman.com/)
-- [Express] (http://expressjs.com/pt-br/)
+- [BootStrap](https://getbootstrap.com/)
+- [Postman](https://www.postman.com/)
+- [Express](http://expressjs.com/pt-br/)
 - [CSS3]
 
 ### Objetivo
@@ -53,5 +53,28 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Imagens
 
+<h1 align="center"> Home </h1>
+<p align="center"> A página Home do projeto! Inicia com imagens e informações para guiar o usuário em uma experiência agradável! 🐧 </p>
 
 ![Screenshot](prints/home.png)
+		 
+![Screenshot](prints/home2.png)
+		 
+		 
+		 
+
+<h1 align="center"> Abrir Vagas </h1>
+<p align="center"> A página tem a finalidade de fornecer as empresas a possibilidade de divulgar suas vagas! </p>
+
+![Screenshot](prints/abrirvagas.png)
+		 
+		 
+
+<h1 align="center"> Ver vagas </h1>
+<p align="center"> Clicando no buttom "Ver vagas" você é redirecionado a essa página que contém as informações sobre a vaga! </p>
+
+![Screenshot](prints/vervagas.png)
+		 
+
+
+		  
