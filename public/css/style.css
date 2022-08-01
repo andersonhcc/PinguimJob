@@ -106,7 +106,7 @@ body::-webkit-scrollbar-thumb {
     width: 50%;
     border-radius: 15px;
     height: 40px;
-    font-size: 18px;
+    font-size: 14px;
 } 
 
 #search-form button{
