@@ -1,4 +1,4 @@
-<h1 align="center"> { Pinguim JOB } </h1>
+<h1 align="center"> 🐧 { Pinguim JOB }  🐧 </h1>
 <p align="center"> Site ideal para você, desenvolvedor, que busca sua vaga dos sonhos!</p>
 
 <p align="center">
@@ -52,3 +52,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ### Imagens
+
+
+![Screenshot](home.png)
