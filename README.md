@@ -54,4 +54,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Imagens
 
 
-![Screenshot](home.png)
+![Screenshot](prints/home.png)
