@@ -78,6 +78,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 		 
 <h3 align="center"> Versão responsive! </h3>
 <div align="center"> 
+
 ![Screenshot](prints/responsive.png)
+
 </div>
 		  
