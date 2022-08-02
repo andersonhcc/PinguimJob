@@ -31,6 +31,7 @@ Como também um excelente editor de códigos:  [VSCode](https://code.visualstudi
 - [x] Campo de pesquisar otimizado;
 - [x] Página de abrir vagas com formulário;
 - [x] Button de "Ver Vaga" que abre as informações sobre a vaga;
+- [x] Destaque especial em vagas recém adicionadas;
 
 
 ### 🛠 Tecnologias
