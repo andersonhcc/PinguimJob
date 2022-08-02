@@ -22,7 +22,7 @@
 ### Pré-requisitos
 
 Para rodar na máquina, é necessário as seguintes ferramentas: 
-[Git](https://git-scm.com), [Node JS](https://nodejs.org/en/), [Express] (http://expressjs.com/pt-br/), 
+[Git](https://git-scm.com), [Node JS](https://nodejs.org/en/), [Express](http://expressjs.com/pt-br/), 
 Como também um excelente editor de códigos:  [VSCode](https://code.visualstudio.com/)
 
 
