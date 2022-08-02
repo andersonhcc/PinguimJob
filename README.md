@@ -76,6 +76,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ![Screenshot](prints/vervagas.png)
 		 
-
-
+<h3 align="center"> Versão responsive! </h3>
+<div align="center"> 
+![Screenshot](prints/responsive.png)
+</div>
 		  
