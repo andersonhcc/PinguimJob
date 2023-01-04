@@ -1,5 +1,5 @@
-<h1 align="center"> 🐧 { Pinguim JOB }  🐧 </h1>
-<p align="center"> Site ideal para você, desenvolvedor, que busca sua vaga dos sonhos!</p>
+<h1 align="center"> 🔵 { Shopping cart } 🔵 </h1>
+<p align="center">Aplicativo mobile para empresas que utilizam carrinho de compras.</p>
 
 <p align="center">
  <a href="#recursos">Recursos</a> •
@@ -14,72 +14,81 @@
 
 
 <h4 align="center"> 
-	🎯 🚀 Projeto Concluído! 🎯
+	🚧 Aguardando atualizações 👨🏻‍🔧 🚧
 </h4>
 
 
 
 ### Pré-requisitos
 
-Para rodar na máquina, é necessário as seguintes ferramentas: 
-[Git](https://git-scm.com), [Node JS](https://nodejs.org/en/), [Express](http://expressjs.com/pt-br/), 
+Para rodar na máquina, os requisitos são básicos: 
+- [x] Configurações do React Native
+- [x] Configurações do expo
+- [x] Configurações do node
 Como também um excelente editor de códigos:  [VSCode](https://code.visualstudio.com/)
 
 
 ### Recursos
 
-- [x] Campo de pesquisar otimizado;
-- [x] Página de abrir vagas com formulário;
-- [x] Button de "Ver Vaga" que abre as informações sobre a vaga;
-- [x] Destaque especial em vagas recém adicionadas;
-
+- [x] Dashboard com os produtos a serem vendidos;
+- [x] Script's de adicionar/remover items no carrinhos de forma simples ;
+- [x] Interações Front-End;
+- [x] Animações;
+- [x] Tela com a visualização de produtos;
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Node JS](https://nodejs.org/en/)
-- [HandleBars](https://handlebarsjs.com/)
-- [BootStrap](https://getbootstrap.com/)
-- [Postman](https://www.postman.com/)
-- [Express](http://expressjs.com/pt-br/)
-- [CSS3]
 
 ### Objetivo
 
-
- <p align="center">Desenvolver o site ideal para quem deseja buscar a vaga dos seus sonhos ou divulgar empregos!</p>
-
+Aplicativo desenvolvido com a finalidade de empresas conseguirem suas metas através de vendas!
 
 
-### Imagens
 
-<h3 align="center"> Home </h3>
-<p align="center"> A página Home do projeto! Inicia com imagens e informações para guiar o usuário em uma experiência agradável! 🐧 </p>
+### Link vídeo:
 
-![Screenshot](prints/home.png)
-		 
-![Screenshot](prints/home_two.png)
-		 
-		 
-		 
 
-<h3 align="center"> Abrir Vagas </h3>
-<p align="center"> A página tem a finalidade de fornecer as empresas a possibilidade de divulgar suas vagas! </p>
+### Telas:
 
-![Screenshot](prints/abrirvagas.png)
-		 
-		 
+<h3 align="center"> Produtos </h3>
 
-<h3 align="center"> Ver vagas </h3>
-<p align="center"> Clicando no buttom "Ver vagas" você é redirecionado a essa página que contém as informações sobre a vaga! </p>
+<br>
 
-![Screenshot](prints/vervagas.png)
-		 
-<h3 align="center"> Versão responsive! </h3>
-<div align="center"> 
+<p align="center"> A página de Produtos do projeto! Inicia com os produtos de sua empresa disponível para comercialização </p>
 
-![Screenshot](prints/responsive.png)
+![Screenshot](prints/1.png)
 
-</div>
-		  
+<p align="center"> Ao clicar no produto, é possível ver a visualização de suas informaçẽos e adicionar no carrinho também. </p>
+
+![Screenshot](prints/2.png)
+
+
+<br>
+
+<p align="center"> Na tela principal, também é possível adicionar no carrinho </p>
+
+![Screenshot](prints/3.png)
+
+<h3 align="center"> Carrinho </h3>
+
+<br>
+
+<p align="center"> Entrando no carrinho, você pode adicionar ou remover produtos e também finalizar a sua compra. </p>
+
+![Screenshot](prints/4.png)
+
+![Screenshot](prints/5.png)
+
+<h3 align="center"> Finalizando </h3>
+
+<br>
+
+<p align="center"> Após clicar, seu pedido é finalizado! </p>
+
+![Screenshot](prints/6.png)
+
+
+
+
+
+
