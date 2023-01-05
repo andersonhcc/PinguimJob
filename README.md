@@ -88,7 +88,3 @@ Aplicativo desenvolvido com a finalidade de empresas conseguirem suas metas atra
 ![Screenshot](prints/6.png)
 
 
-
-
-
-
